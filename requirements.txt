@@ -1,0 +1,5 @@
+numpy
+seaborn
+soundfile
+matplotlib
+scipy
