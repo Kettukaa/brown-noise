@@ -1,5 +1,5 @@
-numpy
-seaborn
-soundfile
-matplotlib
-scipy
+numpy==1.26.4
+seaborn==0.13.2
+soundfile==0.12.1
+matplotlib==3.8.3
+scipy==1.11.4
